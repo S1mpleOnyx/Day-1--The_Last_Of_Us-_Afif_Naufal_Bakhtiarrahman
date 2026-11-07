@@ -9,7 +9,7 @@
 
 ---
 
-## Deskripsi Repository
+## Apa Itu Repository
 
 Repository ini adalah dokumentasi kegiatan **Day 1 Proyek Workshop** bertema *Building with AI, Managing Change with GitHub*. Isinya meliputi catatan materi, hal-hal penting yang saya pelajari, serta pendapat pribadi saya tentang acara hari pertama.
 
